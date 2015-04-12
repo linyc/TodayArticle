@@ -5,4 +5,4 @@
 
 目前已经在[AppStore](https://itunes.apple.com/us/app/jin-ri-mei-wen-lei-mei-ri/id972558048) 上架，适当的时候会开源。
 
-![](https://github.com/linyc/TodayArticle/raw/master/RunScreen/1.png)
+![](https://github.com/linyc/TodayArticle/raw/master/show.png)
